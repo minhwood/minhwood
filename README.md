@@ -35,7 +35,7 @@
 <img align="left" alt="Python" width="26px" src="https://minhdq1998.github.io/portfolio/img/html18.555f23ba.svg" />
 <img align="left" alt="Python" width="26px" src="https://minhdq1998.github.io/portfolio/img/css18.0582a3e4.svg" />
 
-<br/>
----
 
+
+<br/>
 <br/>
