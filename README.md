@@ -1,20 +1,26 @@
-<div markdown="1">
+<p align="center">
 
-<img align="left" alt="Me" height="140px" src="https://raw.githubusercontent.com/minhdq1998/minhdq1998/master/assets/avatar.png?token=AHGTEIHBVYWQRIEWVLJ3FV3AFPSWS" />
+<img align="center" alt="Me" height="140px" src="https://raw.githubusercontent.com/minhdq1998/minhdq1998/master/assets/avatar.png" />
+
+</p>
 
 <br/>
+
+---
+
+<br/>
+<br />
 
 [![Website](https://img.shields.io/website?label=MINHDQ1998.GITHUB.IO/PORFOLIO/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://minhdq1998.github.io/portfolio/)
 
 <br/>
 
-</div>
+
 
 ### You can call me **Minh**
 
 - 🧗 level grinding ...
 
-<br/>
 <br/>
 
 ### Languages and Tools:
