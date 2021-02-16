@@ -16,7 +16,6 @@
 
 ### Languages and Tools:
 
-<br/>
 <img align="left" alt="Python" width="26px" src="https://minhdq1998.github.io/portfolio/img/python.584dac60.svg" />
 <img align="left" alt="Django" width="26px" src="https://minhdq1998.github.io/portfolio/img/djangopixel.70ccc173.svg" />
 <img align="left" alt="Javascript" width="26px" src="https://minhdq1998.github.io/portfolio/img/javascriptpixel.12a49a33.svg" />
