@@ -4,15 +4,9 @@
 
 [![Website](https://img.shields.io/website?label=MINHDQ1998.GITHUB.IO/PORFOLIO/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://minhdq1998.github.io/portfolio/)
 
-<br/>
-
-
-
 ### You can call me **Minh**
 
 - 🧗 level grinding ...
-
-<br/>
 
 ### Languages and Tools:
 
