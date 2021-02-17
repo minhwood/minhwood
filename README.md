@@ -1,7 +1,5 @@
 ### Hello mate <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br/>
-
 [![Website](https://img.shields.io/website?label=MINHDQ1998.GITHUB.IO/PORFOLIO/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://minhdq1998.github.io/portfolio/)
 
 I'm [Minh](https://minhdq1998.github.io/portfolio/), a web developer and a freelance software engineer. I enjoys writing code and build things to sastisfy self-curosity and make our life a little bit easier.
